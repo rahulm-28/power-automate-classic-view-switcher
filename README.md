@@ -1,6 +1,6 @@
 # Power Automate Classic View Switcher
 
-A Chrome Extension that switches Power Automate to the classic designer automatically or with one click. Perfect for developers who prefer the classic flow editor over the new v3 designer.
+A Chrome/Edge Extension that switches Power Automate to the classic designer automatically or with one click. Perfect for developers who prefer the classic flow editor over the new v3 designer.
 
 ## Features
 
